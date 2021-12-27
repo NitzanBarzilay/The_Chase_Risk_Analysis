@@ -1,5 +1,5 @@
 # The_Chase_Risk_Analysis
-This repository contains an analysis of the participants in 3 seasons of the Israeli TV game show "The Chase", based on data from kaggle (https://www.kaggle.com/thomaskonstantin/the-chasegame-show-israel-episode-data) with our manual additions (see at the end of this file).
+This repository contains an analysis of the participants in 3 seasons of the Israeli TV game show "The Chase", based on data from Kaggle (https://www.kaggle.com/thomaskonstantin/the-chasegame-show-israel-episode-data) with our manual additions (see at the end of this file).
 This project's goal was to assess the influence of the participant's experience of success in the game's first (fast) round, on the amount of risk they choose to take in the round that follows.
 
 ### The game "The Chase"
@@ -18,3 +18,4 @@ We publish here the Jupyter notebook that contains the pre-proccessing that was 
 This repository also contains the data itself (downloaded from kaggle with our addition - the features p_i_j with i in (1,2,3) and j in (high, middle, low) that represents the amount of incouragment the i'th player got from the other players in their group to take the j'th amount of risk. The number in each of these features represents the amount of players in the group (out of a maximum of 3) that enncoureged the current player to take that amount of risk. If the players in the group were not asked by the host to express their opinion, this was marked by an "X". This data was collected manually by watching all 3 seacons of the show and trying to quantify the opinions of the players. These features were also visualized. 
 
 This project was done as a part of "Neuropsychiatry - Cognition of Mental Disorders" course at the Hebrew University of Jerusalem in the fall semester of 2021. 
+The preliminary research and the data collection were done by Ido Klainer, Yuval Ziv, Jonathan Kimelfeld, Keren Ben-Arie and Eytan Hodara, and the analysis and visualization was performed by Nitzan Barzilay.
