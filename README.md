@@ -3,11 +3,11 @@ This repository contains an analysis of the participants in 3 seasons of the Isr
 This project's goal was to assess the influence of the participant's experience of success in the game's first (fast) round, on the amount of risk they choose to take in the round that follows.
 
 ### The game "The Chase"
-The game operates as follows - each player plays against "the chaser" - a player with wide general knowledge. On the first round of the game ("the fast round"), the player gets one minute to answer correctly as many questions as possible, and they are rewarded with 5k for each correct answer. At the end of this round, The player has to choose the amount of money to gamble on the second round. They have 3 choices (see image below) - the exact amount they gained in the first round, a much larger amount or a much smaller amount. This choice affects not only the player's potential monetary gain but also the difficulty level of the second round - the higher the amount, the higher the difficulty. 
+The game operates as follows - each player plays against "the chaser" - a player with wide general knowledge. On the first round of the game ("the fast round"), the player gets one minute to answer correctly as many questions as possible, and they are rewarded with 5K ILS for each correct answer. At the end of this round, The player has to choose the amount of money to gamble on the second round. They have 3 choices (see image below) - the exact amount they gained in the first round, a much larger amount or a much smaller amount. This choice affects not only the player's potential monetary gain but also the difficulty level of the second round - the higher the amount, the higher the difficulty. 
 
 ![image](https://user-images.githubusercontent.com/36603609/147443179-04551c98-d3af-42ed-99a8-bc09e726c67e.png)
 
-In the project we defined these 3 possible choices as 3 levels of risk - high, meduim and low. We aim to analyze the effect of the level of success a player had in the first round of the game (defined directly by the ammount of money the gained) on the amount of risk they chose to take in the second round. 
+In the project we defined these 3 possible choices as 3 levels of risk - high, meduim and low. We aim to analyze the effect of the level of success a player had in the first round of the game (defined directly by the ammount of money in ILS they gained) on the amount of risk they chose to take in the second round. 
 
 For more specific definitions and more details in the attached research proposal in Hebrew (if you are interested in information in English feel free to contact me by Email).
 
